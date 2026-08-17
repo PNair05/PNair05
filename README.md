@@ -90,8 +90,8 @@ An event discovery platform that connected 200+ users with shared interests, hol
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PNair05&show_icons=true&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PNair05&layout=compact&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=PNair05&show_icons=true&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PNair05&layout=compact&hide_border=true" />
 
 </div>
 
