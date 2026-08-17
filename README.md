@@ -21,7 +21,7 @@
 ## About Me
 
 - 🎓 Computer Science student at Texas A&M University, minoring in Engineering Entrepreneurship — Class of 2028
-- 💼 Incoming **Customer Success Engineer Co-Op @ IBM**, starting September 2026
+- 💼 Incoming **Customer Success Engineer Co-Op @ IBM**, starting August 2026
 - 🚀 VP of **Meloy Kickstart**, Texas A&M's student entrepreneurship organization
 - 🍜 Co-founder of **Picky**, an event discovery startup
 - 🌱 Interested in applied AI/agent tooling, iOS development, and data science
